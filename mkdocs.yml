@@ -43,7 +43,7 @@ theme:
 
 # edit_uri: edit/main/docs # 编辑按钮跳转的链接，右上角，但是在文章内部的右上角
 repo_url: https://duilec.github.io/mkdocs-test/ # 右上角点击跳转的链接
-repo_name:duilec.github.io/mkdocs-test # 右上角的名字
+repo_name: duilec.github.io/mkdocs-test # 右上角的名字
 
 nav:
   - Home: index.md
